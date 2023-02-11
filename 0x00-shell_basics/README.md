@@ -1,1 +1,1 @@
-displays current directory long format plus UIDs numerically and hidden files
+creates a directory in an existing directory
