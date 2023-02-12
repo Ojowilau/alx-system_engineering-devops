@@ -1,1 +1,1 @@
-moves file betty from tmp to tmpmyfirstdirectory
+deletes the file betty from tmpmyfirstdirectory
