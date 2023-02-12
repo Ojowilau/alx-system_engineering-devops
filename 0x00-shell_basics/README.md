@@ -1,1 +1,1 @@
-changes working dir to previous
+lists files in 3dirs in long format
