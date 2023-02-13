@@ -1,1 +1,1 @@
-prints type of file named iamfile
+symbolic link
