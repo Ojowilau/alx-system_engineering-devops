@@ -1,1 +1,1 @@
-displays contents of 2files
+displays last 10 lines of sid file
