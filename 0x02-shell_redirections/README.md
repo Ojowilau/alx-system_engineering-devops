@@ -1,1 +1,1 @@
-displays last 10 lines of sid file
+display first 10 lines of said file
