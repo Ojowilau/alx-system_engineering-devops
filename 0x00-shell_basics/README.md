@@ -1,1 +1,1 @@
-lists files in 3dirs in long format
+prints type of file named iamfile
