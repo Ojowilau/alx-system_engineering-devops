@@ -1,1 +1,1 @@
-print helloworld on SO
+prints confused smiley
